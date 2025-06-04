@@ -1,12 +1,12 @@
-*Name:* Raunak
+*Name:* Roshan Raj Mehta
 
 *Company name:* CODTECH IT SOLUTIONS
 
 *Domain :* C++
 
-*Duration :* 17 december 2024 to 17 february 2025
+*Duration :* 10 May 2025 to 10 june 2025
 
-*Intern Id:* CT12DZJ
+*Intern Id:* CT04DL800
 
 ### Overview of the project
 
@@ -15,3 +15,4 @@
 ## Project Description 
 A program showcasing file handling techniques. Create a c++ application to read, write and append data to text files.
 ## Output view: 
+![Task1](https://github.com/user-attachments/assets/581d1524-75bf-42c3-af22-717032af4292)
