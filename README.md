@@ -1,12 +1,12 @@
-*Name:* Roshan Raj Mehta
+**Name:** Roshan Raj Mehta
 
-*Company name:* CODTECH IT SOLUTIONS
+**Company name:** CODTECH IT SOLUTIONS
 
-*Domain :* C++
+**Domain :** C++
 
-*Duration :* 10 May 2025 to 10 june 2025
+**Duration :** 10 May 2025 to 10 june 2025
 
-*Intern Id:* CT04DL800
+**Intern Id:** CT04DL800
 
 ### Overview of the project
 
